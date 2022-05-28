@@ -1,0 +1,124 @@
+.loginbtn{
+  background-color: #F13163;
+  color: #FFF;
+  border-radius: 2px;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  width: 90%;
+}
+
+body{
+  background-color: #c5c5c5;
+}
+
+.divlogin{
+  float: left;
+  width: 40%;
+  background-color: #FFF;
+  border-radius: 8px;
+  margin-left: 30%;
+  font-family: "Open Sans";
+  margin-top: 4%;
+  padding-top: 1%;
+  padding-bottom: 5%;
+}
+
+.LogP{
+  color: #F13163;
+  font-size: 290%;
+  text-align: center;
+}
+
+.credential{
+
+  font-size: 190%;
+  text-align: center;
+
+}
+
+.myinput{
+  font-size: 110%;
+  text-align: center;
+  border: 2px solid #F13163;
+  border-radius: 5px;
+
+}
+
+.liquido{
+  width: 40%;
+  height: 45%;
+  background-color:#FFF;
+  float: left;
+  margin-left: 2%;
+  margin-top: 2%;
+  padding: 4%;
+
+  font-family: Poppins;
+  text-align: center;
+}
+
+.TituiloPanel{
+  color: #F13163;
+  font-size: 165%;
+}
+
+.ValorLiquido{
+  color: #000000;
+  font-size: 170%;
+}
+
+
+.Divpanel{
+  width: 44%;
+  height: 45%;
+  background-color:#FFF;
+  float: right;
+  margin-right: 1%;
+  margin-top: 1%;
+  padding: 2%;
+  font-family: Poppins;
+  text-align: center;
+}
+
+.opcion{
+
+  width: 27%;
+  background-color:#D3D3D3;
+  float: left;
+  margin-left: 2%;
+  margin-top: 1%;
+  padding: 2%;
+  font-family: Poppins;
+  text-align: center;
+
+}
+
+.opcion:hover{
+  cursor: pointer;
+  background-color:#F13163;
+  color: #FFF;
+}
+
+.Preparar{
+
+  float: left;
+  margin-left: 22%;
+
+  margin-top: 7%;
+
+  width: 50%;
+  font-size: 110%;
+  color: #FFF;
+  background-color: #F13163;
+
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top:2%;
+  padding-bottom: 2%;
+}
+
+.Preparar:hover{
+  cursor: pointer;
+}
